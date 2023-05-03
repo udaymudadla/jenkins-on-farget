@@ -3,7 +3,6 @@
 Terraform stack to deploy Jenkins on ECS Fargate with Jenkins configuration stored in EFS and agents on Fargate. It can
 be used as a starting point to build a production ready Jenkins on AWS.
 
-More details can be found on [my blog post](https://blog.haidara.io/post/jenkins-aws-fargate/) (in French).
 
 ## How it works
 
